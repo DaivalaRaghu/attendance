@@ -1,0 +1,9 @@
+RollNo,Name,Present/Absent
+1,Rahul Sharma,Present
+3,Suresh Patel,Present
+4,Priya Singh,Present
+6,Neha Gupta,Present
+7,Amit Joshi,Present
+9,Manish Yadav,Present
+10,Rekha Sharma,Present
+12,Swati Nair,Present
